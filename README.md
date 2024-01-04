@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrakheen" alt="mrakheen" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mubtasimahmed-rakheen.my.canva.site/](https://mubtasimahmed-rakheen.my.canva.site/)
+- 👨‍💻 Top projects showcased at portfolio at [https://mubtasimahmed-rakheen.my.canva.site/](https://mubtasimahmed-rakheen.my.canva.site/)
 
 - 📫 How to reach me **mrakheen10@gmail.com**
 
