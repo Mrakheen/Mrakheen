@@ -5,6 +5,6 @@
 
 - 👨‍💻 Top projects showcased at portfolio at [https://mubtasimahmed-rakheen.my.canva.site/](https://mubtasimahmed-rakheen.my.canva.site/)
 
-- 📫 How to reach me **mrakheen10@gmail.com**
+- 📫 How to reach me **mrakheen10@gmail.com   mubtasimahmed.rakheen@mavs.uta.edu**
 
 
