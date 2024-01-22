@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakheen&label=Profile%20views&color=0e75b6&style=flat" alt="mrakheen" /> </p>
 
-- 👨‍💻 Top projects showcased at portfolio at [https://mubtasimahmed-rakheen.my.canva.site/](https://mubtasimahmed-rakheen.my.canva.site/)
+- 👨‍💻 Portfolio [https://mubtasimahmed-rakheen.my.canva.site/](https://mubtasimahmed-rakheen.my.canva.site/)
 
-- 📫 How to reach me **mrakheen10@gmail.com   mubtasimahmed.rakheen@mavs.uta.edu**
+- 📫 How to reach me **mrakheen10@gmail.com**
+
+- Linkedin : [https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
 
 
