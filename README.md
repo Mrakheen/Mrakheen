@@ -14,7 +14,6 @@ Hi! 👋 I'm Mubtasim Ahmed Rakheen, a passionate Developer and Computer Science
 <th>Web and Mobile Technologies</th>
 <th>Database and Scripting</th>
 <th>Operating Systems and Tools</th>
-<th>Machine Learning and Others</th>
 </tr>
 <tr>
 <td>
@@ -55,14 +54,6 @@ Hi! 👋 I'm Mubtasim Ahmed Rakheen, a passionate Developer and Computer Science
 <li>Linux</li>
 <li>Git</li>
 <li>Microsoft Office</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>PyTorch</li>
-<li>TensorFlow</li>
-<li>Pandas</li>
-<li>NumPy</li>
 </ul>
 </td>
 </tr>
