@@ -1,8 +1,5 @@
 <div align="center">
-
-# Mubtasim Ahmed Rakheen 👨🏻‍💻
-
-## About me
+## About me  👨🏻‍💻
 
 Hi! 👋 I'm Mubtasim Ahmed Rakheen, a passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions.
 
