@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mubtasim Ahmed Rakheen | Aspiring Full Stack Developer 👨🏻‍💻
+# Mubtasim Ahmed Rakheen 👨🏻‍💻
 
 ## About me
 
