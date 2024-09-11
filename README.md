@@ -4,7 +4,6 @@
   # Hi! 👋 I'm Rakheen 
   ### <i> passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions. </i>
   
-  
   ## 👨‍💻 Technologies & Skills
   
   <table>
