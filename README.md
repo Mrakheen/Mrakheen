@@ -1,4 +1,6 @@
 
+![Untitled design](https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d)
+
 # 👨 About Me
 
 Hi! 👋 I'm Rakheen, a passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions.
