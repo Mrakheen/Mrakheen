@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d" alt="About Me" width="400"/>
   
-  # Hi! 👋 I'm Rakheen, a passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions.
+  # Hi! 👋 I'm Rakheen 
+  ### <i> passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions. </i>
   
   
   ## 👨‍💻 Technologies & Skills
