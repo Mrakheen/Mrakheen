@@ -1,5 +1,5 @@
 
-![Untitled design](https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d)
+<img src="https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d" alt="About Me" width="400"/>
 
 # 👨 About Me
 
