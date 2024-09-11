@@ -59,7 +59,7 @@
   
   ## 📫 Get in Touch
   
-  - LinkedIn: [Mubtasim Ahmed Rakheen](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
+  - <b> LinkedIn </b>: [Mubtasim Ahmed Rakheen](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
   - Email: `mrakheen10@gmail.com`
   - Personal Website: [Mubtasim Ahmed Rakheen's Porfolio](https://mubtasimahmed-rakheen.my.canva.site/)
   
