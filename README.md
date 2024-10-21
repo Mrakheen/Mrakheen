@@ -3,6 +3,21 @@
   
   # Hi! 👋 I'm Rakheen 
   ### <i> A passionate Developer and Computer Science senior, eager to apply my skills to create innovative software solutions. </i>
+
+
+  ## 📫 Get in Touch
+  
+  - <b> LinkedIn </b>: [Mubtasim Ahmed Rakheen's Linkedin](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
+  - <b> Email </b>: `mrakheen10@gmail.com`
+  - <b> Personal Website </b>: [Mubtasim Ahmed Rakheen's Porfolio](https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/)
+  
+  <div align="center">
+  
+  ⭐️ From [Mrakheen](https://github.com/Mrakheen)
+  
+  </div>
+
+  
   
   ## 👨‍💻 Technologies & Skills
   
@@ -57,15 +72,5 @@
   </tr>
   </table>
   
-  ## 📫 Get in Touch
   
-  - <b> LinkedIn </b>: [Mubtasim Ahmed Rakheen](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
-  - <b> Email </b>: `mrakheen10@gmail.com`
-  - <b> Personal Website </b>: [Mubtasim Ahmed Rakheen's Porfolio](https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/)
-  
-  <div align="center">
-  
-  ⭐️ From [Mrakheen](https://github.com/Mrakheen)
-  
-  </div>
 </div>
