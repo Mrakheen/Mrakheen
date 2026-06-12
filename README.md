@@ -44,6 +44,7 @@
   <ul>
   <li>HTML5</li>
   <li>CSS</li>
+  <li>Bootstrap</li>
   <li>React</li>
   <li>ExpressJS</li>
   <li>NodeJS</li>
@@ -54,12 +55,11 @@
   </td>
   <td>
   <ul>
-  <li>MySQL</li>
-  <li>SQLite</li>
+  <li>SQL</li>
+  <li>PostgreSQL</li>
+  <li>Databricks & PySpark</li>
   <li>Firebase</li>
   <li>MongoDB</li>
-  <li>Bash</li>
-  <li>PowerShell</li>
   </ul>
   </td>
   <td>
@@ -68,6 +68,8 @@
   <li>MacOS</li>
   <li>Linux</li>
   <li>Git</li>
+  <li>Terminal</li>
+  <li>PowerShell</li>
   <li>Microsoft Office</li>
   </ul>
   </td>
