@@ -23,20 +23,20 @@
   
   <table>
   <tr>
-  <th>Programming Languages</th>
-  <th>Web and Mobile Technologies</th>
-  <th>Database and Scripting</th>
-  <th>Operating Systems and Tools</th>
+  <th>Programming  Languages</th>
+  <th>Full Stack Development</th>
+  <th>Database Engineering</th>
+  <th>Agentic AI</th>
   </tr>
   <tr>
   <td>
   <ul>
   <li>Python</li>
   <li>C</li>
-  <li>Java</li>
   <li>C++</li>
+  <li>C#</li>
+  <li>ASP .NET</li>
   <li>JavaScript</li>
-  <li>MATLAB</li>
   <li>TypeScript</li>
   </ul>
   </td>
@@ -47,6 +47,8 @@
   <li>React</li>
   <li>ExpressJS</li>
   <li>NodeJS</li>
+  <li>Angular</li>
+  <li>NextJS</li>
   <li>Django</li>
   </ul>
   </td>
