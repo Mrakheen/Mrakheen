@@ -16,65 +16,6 @@
   ⭐️ From [Mrakheen](https://github.com/Mrakheen)
   
   </div>
-
-  
-  
-  ## 👨‍💻 Technologies & Skills
-  
-  <table>
-  <tr>
-  <th>Programming  Languages</th>
-  <th>Full Stack Development</th>
-  <th>Database Engineering</th>
-  <th>Agentic AI</th>
-  </tr>
-  <tr>
-  <td>
-  <ul>
-  <li>Python</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>ASP .NET</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  </ul>
-  </td>
-  <td>
-  <ul>
-  <li>HTML5</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>React</li>
-  <li>ExpressJS</li>
-  <li>NodeJS</li>
-  <li>Angular</li>
-  <li>NextJS</li>
-  <li>Django</li>
-  </ul>
-  </td>
-  <td>
-  <ul>
-  <li>SQL</li>
-  <li>PostgreSQL</li>
-  <li>Databricks & PySpark</li>
-  <li>Firebase</li>
-  <li>MongoDB</li>
-  </ul>
-  </td>
-  <td>
-  <ul>
-  <li>Windows</li>
-  <li>MacOS</li>
-  <li>Linux</li>
-  <li>Git</li>
-  <li>Terminal</li>
-  <li>PowerShell</li>
-  <li>Microsoft Office</li>
-  </ul>
-  </td>
-  </tr>
-  </table>
   
   
 </div>
