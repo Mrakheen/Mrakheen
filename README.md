@@ -26,7 +26,7 @@
   />
 </a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/" target="_blank">
+<a href="https://mrakheen.github.io/mubtasim-ahmed-rakheen-personal-website/" target="_blank">
   <img
     src="https://img.shields.io/badge/Personal%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Personal Website"
