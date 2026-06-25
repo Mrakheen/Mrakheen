@@ -9,17 +9,25 @@
 
 
   ## 📫 Get in Touch
-  <a href="https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  - <b> Email </b>: `mrakheen10@gmail.com`
-  - <b> Personal Website </b>: [Mubtasim Ahmed Rakheen's Porfolio](https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/)
-  
-  <div align="center">
-  
-  ⭐️ From [Mrakheen](https://github.com/Mrakheen)
-  
-  </div>
+ <div align="center">
+
+<a href="https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📧 <b>Email:</b> <code>mrakheen10@gmail.com</code>
+
+</div>
+
+---
+
+⭐️ From <a href="https://github.com/Mrakheen">Mrakheen</a>
   
   
 </div>
