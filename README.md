@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d" alt="About Me" width="400"/>
   
   # Hi! 👋 I'm Rakheen 
-  ### <i> Always eager to apply my skills nad creativity to create innovative solutions with technology. </i>
+  ### <i>Just building stuff online and figuring it out as I go. </i>
 
 
   ## 📫 Get in Touch
