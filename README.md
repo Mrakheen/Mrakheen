@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://github.com/user-attachments/assets/aed8df56-98fb-49f8-b540-e5c83f8de72d"
+  src="my-img-animated.png"
   alt="About Me"
   width="420"
 />
