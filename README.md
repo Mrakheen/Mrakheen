@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="my-img-animated.png"
+  src="[my-img-animated.png](https://github.com/Mrakheen/Mrakheen/blob/1689a205ce0f306737910e66376b6634ea8e53c6/my-img-animated.png)"
   alt="About Me"
   width="420"
 />
