@@ -7,12 +7,12 @@
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=65&duration=2500&pause=10000&color=7DD3FC&repeat=true&lines=Hi+There!+👋+I'm+Rakheen!;"
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=65&duration=2500&pause=15000&color=7DD3FC&repeat=true&lines=Hi+There!+👋+I'm+Rakheen!;"
   alt="Hi There! I'm Rakheen!"
 />
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=800&height=40&duration=2500&pause=10000&color=7DD3FC&repeat=true&lines=Building+stuff+online+and+figuring+it+out+as+I+go.;"
-  alt="Building stuff online and figuring it out as I go."
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=950&height=50&duration=2500&pause=1500&color=7DD3FC&repeat=true&lines=🎓+B.Sc.+in+Computer+Science,+University+of+Texas+at+Arlington.;💻+Building+stuff+online+and+figuring+it+out+as+I+go."
+  alt="About Me"
 />
 
 ---
@@ -41,11 +41,11 @@
 ---
 
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=520&height=45&duration=2500&pause=10000&color=7DD3FC&repeat=true&lines=Shoot+me+a+message+on+LinkedIn!;"
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=520&height=45&duration=2500&pause=15000&color=7DD3FC&repeat=true&lines=Shoot+me+a+message+on+LinkedIn!;"
   alt="Shoot me a message on LinkedIn!"
 />
 <img
-  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=520&height=45&duration=2500&pause=10000&color=7DD3FC&repeat=true&lines=Always+down+to+collab!+:%29"
+  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=520&height=45&duration=2500&pause=15000&color=7DD3FC&repeat=true&lines=Always+down+to+collab!+:%29"
   alt="Always down to collab! :);"
 />
 <br>
