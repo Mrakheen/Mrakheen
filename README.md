@@ -9,8 +9,9 @@
 
 
   ## 📫 Get in Touch
-  
-  - <b> LinkedIn </b>: [Mubtasim Ahmed Rakheen's Linkedin](https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/)
+  <a href="https://www.linkedin.com/in/mubtasim-ahmed-rakheen-8077a4203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   - <b> Email </b>: `mrakheen10@gmail.com`
   - <b> Personal Website </b>: [Mubtasim Ahmed Rakheen's Porfolio](https://mrakheen.github.io/mubtasim-ahmed-rakheen-portfolio/)
   
